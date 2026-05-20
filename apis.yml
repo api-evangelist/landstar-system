@@ -19,6 +19,8 @@ url: https://raw.githubusercontent.com/api-evangelist/landstar-system/refs/heads
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/landstar
   - type: Website
     url: https://www.landstar-system.com
 maintainers:
