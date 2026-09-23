@@ -1,7 +1,9 @@
 ---
 title: Landstar System details 2026 meeting, AI and payouts
 url: https://www.stocktitan.net/sec-filings/LSTR/def-14a-landstar-system-inc-definitive-proxy-statement-b380b76f807f.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Landstar System" press release artificial intelligence'
 position: 3
 source: serpapi-google

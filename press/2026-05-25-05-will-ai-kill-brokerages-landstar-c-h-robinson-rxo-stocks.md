@@ -1,7 +1,9 @@
 ---
 title: Will AI kill brokerages? Landstar, C.H. Robinson, RXO stocks ...
 url: https://www.overdriveonline.com/business/article/15817753/ai-freight-brokerage-fears-hit-landstar-ch-robinson-rxo-stocks
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Landstar System" press release artificial intelligence'
 position: 5
 source: serpapi-google
